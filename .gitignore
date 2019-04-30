@@ -1,0 +1,9 @@
+#ingore all thing 
+*
+#dont ignore cpp
+!*.cpp
+!*/
+#!*/*.cpp
+sample.cpp
+!.gitignore
+!README.md
